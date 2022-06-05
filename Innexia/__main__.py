@@ -99,13 +99,13 @@ buttons = [
             text="Help & Commands", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="👥 Group", url=f"https://t.me/RexomaSupport"),
+        InlineKeyboardButton(text="👥 Group", url=f"https://t.me/ibotssupport"),
         InlineKeyboardButton(
-            text="Channel 🔔", url=f"https://t.me/RexomaUpdate"
+            text="Channel 🔔", url=f"https://t.me/ibotsupdates"
         ),
     ],
     [
-        InlineKeyboardButton(text="➕Add Me To Your Chat➕", url="https://t.me/InnexiaBot?startgroup=true"),
+        InlineKeyboardButton(text="➕Add Me To Your Chat➕", url="https://t.me/Miss_estherbot?startgroup=true"),
     ],
 ]
 
