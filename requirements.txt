@@ -1,6 +1,1 @@
-lottie
-wand
-pybase64
-spamwatch
-Redis
-Telegram.ext
+#no need
