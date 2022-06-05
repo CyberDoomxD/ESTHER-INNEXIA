@@ -1,3 +1,4 @@
 lottie
 wand
 pybase64
+spamwatch
